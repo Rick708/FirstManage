@@ -10,3 +10,5 @@ C:\Users\RICK\FirstManage\FirstManage\obj\Debug\FirstManage.vbproj.CoreCompileIn
 C:\Users\RICK\FirstManage\FirstManage\obj\Debug\FirstManage.exe
 C:\Users\RICK\FirstManage\FirstManage\obj\Debug\FirstManage.xml
 C:\Users\RICK\FirstManage\FirstManage\obj\Debug\FirstManage.pdb
+C:\Users\RICK\FirstManage\FirstManage\obj\Debug\FirstManage.subform1.resources
+C:\Users\RICK\FirstManage\FirstManage\obj\Debug\FirstManage.subform2.resources

@@ -95,6 +95,18 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="subform1.Designer.vb">
+      <DependentUpon>subform1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="subform1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subform2.Designer.vb">
+      <DependentUpon>subform2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="subform2.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
@@ -105,6 +117,12 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subform1.resx">
+      <DependentUpon>subform1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subform2.resx">
+      <DependentUpon>subform2.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
